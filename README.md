@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pablomartinezceldran
-- 👀 I’m interested in Frontend development
+- 👀 I’m interested in Frontend and Backend development
 - 🌱 I’m currently learning Software Engineering in UPC, Spain
 
 <!---
